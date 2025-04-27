@@ -57,6 +57,17 @@ Yurii:
 telegram: @eclogyte
 
 
+Juan (RAIR project):
++58 424 6650346
+
+Kelvin Rivero:
++58 416 4392381
+eldrok19@gmail.com
+kgriv96@gmail.com
+
+Kelvin's mom:
++58 424 3190553
+
 /**
  * Class AccessCore.
  */
