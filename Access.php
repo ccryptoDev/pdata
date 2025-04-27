@@ -50,6 +50,8 @@ tom@inex.net
 Rafael (Brizil - squarespace):
 +55 41 99972-8218
 
+Adrienn (UK - squarespace):
++44 7780 347098
 
 Natalia:
 +380 67 690 3835
