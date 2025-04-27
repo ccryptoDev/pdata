@@ -65,8 +65,11 @@ Kelvin Rivero:
 eldrok19@gmail.com
 kgriv96@gmail.com
 
-Kelvin's mom:
+Kelvin  mom:
 +58 424 3190553
+
+Jonas (Venezuela):
++58 426 2089429
 
 /**
  * Class AccessCore.
